@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gokerguner&show_icons=true">
+
 ### Merhabalar, ben Göker! 👋
 Zamanla buralar Python, Veri Bilimi ve Makine Öğrenmesi üzerine içeriklerle zenginleşecek. Kendime bir not alma, pratik yapma amacıyla ekleyeceğim içeriklerin sizlere de en ufak bir faydası olursa ne mutlu. 
 
