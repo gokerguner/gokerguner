@@ -1,10 +1,11 @@
 ### Merhabalar, ben Göker! 👋
-
+Zamanla buralar Python, Veri Bilimi ve Makine Öğrenmesi üzerine içeriklerle zenginleşecek. Kendime bir not alma, pratik yapma amacıyla ekleyeceğim içeriklerin sizlere de en ufak bir faydası olursa ne mutlu. 
 
 [![Mail Badge](https://img.shields.io/badge/gokerguner@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:gokerguner@gmail.com)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gokerguner)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokerguner/)
-
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gokerguner)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/gokerguner)
 
 
 <!--
