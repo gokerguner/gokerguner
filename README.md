@@ -1,4 +1,11 @@
-### Hi there 👋
+### Merhabalar, ben Göker! 👋
+
+
+[![Mail Badge](https://img.shields.io/badge/gokerguner@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gokerguner@gmail.com)](mailto:gokerguner@gmail.com)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gokerguner)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokerguner/)
+
+
 
 <!--
 **gokerguner/gokerguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
